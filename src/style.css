@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+iframe {
+  border: none;
+  height: 100vh;
+  width: 100%;
+}
+
+#app {
+  height: 100vh;
+  width: 100%;
+}
